@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\UNIQLO TRAINING\JUnit5Examples"/>
+			<item value="D:\UNIQLO TRAINING\UsingJUnitAssertions"/>
+			<item value="D:\SpringKafka"/>
+			<item value="C:\Users\debar\Downloads\SpringFileUpload"/>
+			<item value="D:\UNIQLO TRAINING\hello-world-spring-boot"/>
+			<item value="D:\UNIQLO TRAINING\Spring-MVC-LoginForm"/>
+			<item value="D:\UNIQLO TRAINING\SpringFileUpload"/>
+			<item value="C:\Users\debar\OneDrive\Desktop\UNIQLO TRAINING\SpringFileUpload"/>
+			<item value="C:\Users\debar\OneDrive\Desktop\UNIQLO TRAINING\Spring-MVC-LoginForm"/>
+			<item value="D:\SpringBootJDBCExample-master"/>
+			<item value="D:\JdbcTemplate\"/>
+			<item value="D:\hibernate\jpa-with-hibernate"/>
+			<item value="D:\spring_basics"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

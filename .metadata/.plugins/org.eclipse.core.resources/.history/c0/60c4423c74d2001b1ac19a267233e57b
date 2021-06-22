@@ -1,0 +1,16 @@
+package prolim_phase_3;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.ApplicationEventPublisher;
+
+public class MyEventPublisher {
+	@Autowired
+	private ApplicationEventPublisher AEP;
+	public void beforePublishEvent(final String msg) {
+		System.out.println("Publishing custom event .");
+		MyCustomEvent event=new MyCustomEvent(this,msg);
+		AEP.publishEvent(event);
+		
+	}
+
+}

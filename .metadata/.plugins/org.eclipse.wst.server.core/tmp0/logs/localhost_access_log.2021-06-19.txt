@@ -1,0 +1,6 @@
+127.0.0.1 - - [19/Jun/2021:14:38:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jun/2021:14:38:31 +0530] "GET /SpringFileUpload/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [19/Jun/2021:14:39:10 +0530] "GET /SpringFileUpload/upload.jsp HTTP/1.1" 200 351
+127.0.0.1 - - [19/Jun/2021:14:54:32 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jun/2021:14:54:33 +0530] "GET /SpringFileUpload/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [19/Jun/2021:14:55:13 +0530] "GET /SpringFileUpload/uploadMultiple.jsp HTTP/1.1" 200 482

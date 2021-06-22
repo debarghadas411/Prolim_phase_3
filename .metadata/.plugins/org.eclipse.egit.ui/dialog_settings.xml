@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/debarghadas411/Phase_1_Prolim.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="debar &lt;debar@LAPTOP-02171SP5.mshome.net&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="debar &lt;debar@LAPTOP-02171SP5.mshome.net&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\debar\git\repository\.git">
+			<item value="false"/>
+			<item value="debar &lt;debar@LAPTOP-02171SP5.mshome.net&gt;"/>
+			<item value="ultimate commit"/>
+			<item value="debar &lt;debar@LAPTOP-02171SP5.mshome.net&gt;"/>
+			<item value="689457c2ea22b5218ad365ad2a81d4d95555b5ba"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+		<list key="C:\Users\debar\eclipse-workspace\Phase_1_Prolim\.git">
+			<item value="false"/>
+			<item value="debar &lt;debar@LAPTOP-02171SP5.mshome.net&gt;"/>
+			<item value="Final Phase 1 commit"/>
+			<item value="debar &lt;debar@LAPTOP-02171SP5.mshome.net&gt;"/>
+			<item value="900d51020f43868851a5ed081c4479615b98519c"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="534"/>
+		<item key="DIALOG_Y_ORIGIN" value="193"/>
+		<item key="DIALOG_WIDTH" value="875"/>
+		<item key="DIALOG_HEIGHT" value="503"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+</section>

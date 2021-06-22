@@ -1,0 +1,5 @@
+package com.prolim.exception;
+
+public class ProductNotFoundException {
+
+}

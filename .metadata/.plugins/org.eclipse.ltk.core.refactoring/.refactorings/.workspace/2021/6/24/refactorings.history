@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 5 resources" deleteContents="false" description="Delete 5 resources" element1="/01.Spring-Introduction-In-10-Steps" element2="/02.Spring-Boot-Introduction-In-10-Steps" element3="/01-from-jdbc-to-jpa" element4="/jpa-with-hibernate" element5="/02-jpa-advanced" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="5" stamp="1623416425199"/>
+</session>

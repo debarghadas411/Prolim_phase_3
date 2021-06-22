@@ -1,0 +1,5 @@
+package com.prolim.controller;
+
+public class EProductExceptionController {
+
+}
